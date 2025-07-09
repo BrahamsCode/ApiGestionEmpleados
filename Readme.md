@@ -6,7 +6,7 @@ La API de Gestión de Empleados es una aplicación web desarrollada en ASP.NET C
 
 ## Tecnologías Utilizadas
 
-- **Backend**: ASP.NET Core 6.0+
+- **Backend**: ASP.NET Core 9.0+
 - **Base de Datos**: SQL Server con Entity Framework Core
 - **Autenticación**: JWT (JSON Web Tokens)
 - **Autorización**: ASP.NET Core Identity
