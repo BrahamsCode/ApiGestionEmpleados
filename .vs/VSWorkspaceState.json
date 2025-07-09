@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Controllers",
+    "\\Data",
+    "\\GestionEmpleadosMapper",
+    "\\Migrations",
+    "\\Modelo",
+    "\\Modelo\\Dtos",
+    "\\Properties",
+    "\\Repositorio",
+    "\\Repositorio\\IRepositorio"
+  ],
+  "SelectedNode": "\\Controllers\\Rol.cs",
+  "PreviewInSolutionExplorer": false
+}

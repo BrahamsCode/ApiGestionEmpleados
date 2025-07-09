@@ -1,0 +1,6 @@
+@ApiGestionEmpleados_HostAddress = http://localhost:5070
+
+GET {{ApiGestionEmpleados_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
